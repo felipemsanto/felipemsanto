@@ -7,9 +7,7 @@
 
 Analista e desenvolvedor de sistemas por formação, desenvolvedor web e mobile por paixão.
 
-### Github Stats
-
-![Felipe dos Santos github stats](https://github-readme-stats.vercel.app/api?username=felipemsanto&show_icons=true&title_color=fff&icon_color=79ff97&text_color=79ff97&bg_color=0d1117)
+![Felipe dos Santos GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemsanto&show_icons=true&title_color=fff&icon_color=79ff97&text_color=79ff97&bg_color=0d1117)
 
 <img align="right" src="https://github.com/felipemsanto/felipemsanto/blob/master/Assets/Dev.gif"/>
 
