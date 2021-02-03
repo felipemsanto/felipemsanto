@@ -7,8 +7,8 @@
 
 Analista e desenvolvedor de sistemas por formação, desenvolvedor web e mobile por paixão.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemsanto&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemsanto&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemsanto&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemsanto&theme=gotham)
 
 <img align="right" src="https://github.com/felipemsanto/felipemsanto/blob/master/Assets/Dev.gif"/>
 
